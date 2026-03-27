@@ -1,0 +1,23 @@
+Friday, 27 March 2026.
+
+My name is Jun Bin with matric number, 25006412. I am majoring in Artificial Intelligence. This is my first time taking the Data Structure subject. At the moment, I am feeling excited and motivated about taking this subject. This is because I know that efficient data structures are the backbone of high-performance AI models and complex algorithms.
+
+I acquired an A+ for my previous Programming 1 course. It’s not too bad. So, I think I can manage to get an A+ for this DS subject this term. In order to do well in the subject, I will consistently practice implementing different structures in Java and ensure I deeply understand the time complexity of my code. Wish me luck!!!
+
+Part 2: Reflective Letter Content
+Thursday, 18 June 2021.
+
+It has been quite a journey since my first letter. Looking back at the past few months in this Data Structure course, I feel a great sense of accomplishment. I have performed consistently well, staying on top of the lab exercises and ensuring my code is always efficient. I am very happy with my performance because I didn't just learn how to write code, but how to think algorithmically.
+
+Learning DS has taught me that "working code" is not enough; "efficient code" is what matters. I have learned how to evaluate time and space complexity using Big O notation, and I now understand how structures like Heaps, Trees, and Hash Maps are essential for the high-speed data processing required in AI. There is no change to my target grade; I have worked hard to maintain my standard, and I am still aiming for an A+.
+
+What I did well during the course was implementing complex logic in Java and visualizing how data moves through different structures. However, what could have been done better was my initial time management when dealing with more abstract concepts like Graph Theory. I sometimes spent too much time over-thinking simple solutions. Overall, this course has provided the foundation I need for my future in Artificial Intelligence. Wish me luck for the final evaluation!
+Part 2: Reflective Letter Content
+Thursday, 18 June 2021.
+
+It has been quite a journey since my first letter. Looking back at the past few months in this Data Structure course, I feel a great sense of accomplishment. I have performed consistently well, staying on top of the lab exercises and ensuring my code is always efficient. I am very happy with my performance because I didn't just learn how to write code, but how to think algorithmically.
+
+Learning DS has taught me that "working code" is not enough; "efficient code" is what matters. I have learned how to evaluate time and space complexity using Big O notation, and I now understand how structures like Heaps, Trees, and Hash Maps are essential for the high-speed data processing required in AI. There is no change to my target grade; I have worked hard to maintain my standard, and I am still aiming for an A+.
+
+What I did well during the course was implementing complex logic in Java and visualizing how data moves through different structures. However, what could have been done better was my initial time management when dealing with more abstract concepts like Graph Theory. I sometimes spent too much time over-thinking simple solutions. Overall, this course has provided the foundation I need for my future in Artificial Intelligence. Wish me luck for the final evaluation!
+
