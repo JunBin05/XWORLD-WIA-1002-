@@ -4,7 +4,7 @@ My name is Jun Bin with matric number, 25006412. I am majoring in Artificial Int
 
 I acquired an A+ for my previous Programming 1 course. It’s not too bad. So, I think I can manage to get an A+ for this DS subject this term. In order to do well in the subject, I will consistently practice implementing different structures in Java and ensure I deeply understand the time complexity of my code. Wish me luck!!!
 
-Part 2: Reflective Letter Content
+Part 2: Reflective Letter Contents
 Thursday, 18 June 2021.
 
 It has been quite a journey since my first letter. Looking back at the past few months in this Data Structure course, I feel a great sense of accomplishment. I have performed consistently well, staying on top of the lab exercises and ensuring my code is always efficient. I am very happy with my performance because I didn't just learn how to write code, but how to think algorithmically.
